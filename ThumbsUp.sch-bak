@@ -3194,4 +3194,6 @@ Text GLabel 2400 12100 1    50   Input ~ 0
 DR
 Text GLabel 2400 12600 3    50   Input ~ 0
 DR-TOP
+Text Notes 1500 13150 0    50   ~ 0
+Connector in the middle of top PCB, which is under MCU on the middle PCB
 $EndSCHEMATC
