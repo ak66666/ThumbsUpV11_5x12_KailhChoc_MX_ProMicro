@@ -20,7 +20,7 @@ Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://gi
 
 
 # Firmware
-The default firmware is here:
+D efault firmware is here:
 ![QMK Firmware](https://github.com/ak66666/qmk_firmware/tree/thumbsup_20240523/keyboards/thumbsup)
 
 # Here you can buy it
