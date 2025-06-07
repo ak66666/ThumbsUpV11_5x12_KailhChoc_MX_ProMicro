@@ -16,16 +16,17 @@ Can be made wireless with nice!nano v2 (or a clone) and a battery, [ZMK firmware
 
 # Photos
 
-![v11 complete with MX switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115846720.jpg)
-![v11 complete with Kailh Choc switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_113335330.jpg)
-![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115916494_HDR.jpg)
-![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_130001922_HDR.jpg)
+![v11 complete with MX switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/blob/main/Photos/IMG_20250606_115846720.jpg)
+![v11 complete with Kailh Choc switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/blob/main/Photos/IMG_20250606_113335330.jpg)
+![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/blob/main/Photos/IMG_20250606_115916494_HDR.jpg)
+![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/blob/main/Photos/IMG_20250606_130001922_HDR.jpg)
 
 See more pictures in Photos folder. 
 
 # Firmware
 Default firmware is here:
 ![QMK Firmware](https://github.com/ak66666/qmk_firmware/tree/thumbsup_20240523/keyboards/thumbsup)
+Note this board uses the firmware from v5 - it got the very same wiring.
 
 # Here you can buy it
 ![ThubmsUp! v11](https://www.etsy.com/ca/listing/4316649811)
