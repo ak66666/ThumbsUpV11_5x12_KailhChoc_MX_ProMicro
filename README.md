@@ -11,12 +11,11 @@ ProMicro or pin-compatible MCUs are supported, including Raspberry RP2040, nice!
 
 Supports Proglide Cirque touchpad (up to 40mm diameter).
 
-Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://github.com/ak66666/zmk-config/tree/master)
+Can be made wireless with nice!nano v2 (or a clone) and a battery, [ZMK firmware.](https://github.com/ak66666/zmk-config/tree/master)
 
 
 # Photos
 
-//TODO
 ![v11 complete with MX switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115846720.jpg)
 ![v11 complete with Kailh Choc switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_113335330.jpg)
 ![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115916494_HDR.jpg)
@@ -25,12 +24,13 @@ Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://gi
 See more pictures in Photos folder. 
 
 # Firmware
-D efault firmware is here:
+Default firmware is here:
 ![QMK Firmware](https://github.com/ak66666/qmk_firmware/tree/thumbsup_20240523/keyboards/thumbsup)
 
 # Here you can buy it
-![ThubmsUp! v8 with Kailh Choc switches](https://www.etsy.com/ca/listing/1592317099/thumbsup-v8-ergonomic-unibody-mechanical)
-![ThumbsUp! v8b with Gateron Low Profile switches](https://www.etsy.com/ca/listing/1596227054/thumbsup-v8b-ergonomic-unibody)
+![ThubmsUp! v11](https://www.etsy.com/ca/listing/4316649811)
 
 # More info
-![Blogspot](https://thumbsupkeyboards.blogspot.com)
+
+Usage instructions and miscellaneous info:
+![Blogspot](htt ps://thumbsupkeyboards.blo gspot.com)
