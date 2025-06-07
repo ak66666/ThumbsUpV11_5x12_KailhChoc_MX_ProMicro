@@ -17,7 +17,12 @@ Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://gi
 # Photos
 
 //TODO
+![v11 complete with MX switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115846720.jpg)
+![v11 complete with Kailh Choc switches and caps](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_113335330.jpg)
+![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_115916494_HDR.jpg)
+![v11](https://github.com/ak66666/ThumbsUpV11_5x12_KailhChoc_MX_ProMicro/tree/main/Photos/IMG_20250606_130001922_HDR.jpg)
 
+See more pictures in Photos folder. 
 
 # Firmware
 D efault firmware is here:
