@@ -29,7 +29,7 @@ Default firmware is here:
 Note this board uses the firmware from v5 - it got the very same wiring.
 
 # Here you can buy it
-![ThubmsUp! v11](https://www.etsy.com/ca/listing/4316649811)
+![ThumbsUp! v11](https://www.etsy.com/ca/listing/4316649811)
 
 # More info
 
